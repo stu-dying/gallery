@@ -1,0 +1,12 @@
+.mainImg {
+    width: 550px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+}
+
+.preview {
+    width: 100px;
+    height: 100px;
+    margin:60px;
+}
